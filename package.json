@@ -1,0 +1,12 @@
+{
+  "name": "awesome-javascript",
+  "version": "1.0.0",
+  "description": "thx you stunstunstun from naver d2",
+  "main": "index.js",
+  "repository": "https://github.com/jello0097/awesome-javascript",
+  "author": "jerry <jello0097@hanmail.net>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
