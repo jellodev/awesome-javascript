@@ -1,5 +1,9 @@
 # awesome-javascript
 Create JS practice environment - Naver D2
+- Jest 를 이용해서 js test 환경 만들기 
+- test 코드는 _test_ folder 안에 있음 / 관련 library 는 lib folder 
+- 연습용 코드는 git user get 으로 진행 됨 
+- git access token 발행 필요 (github setting 에서 생성 가능)
 
 ## Getting Started
 ### Prerequisites
