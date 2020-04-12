@@ -1,5 +1,3 @@
-// github access token 
-// 5eb35f97672d788a2718cc534f060c274d15ca01
 const GitHub = require('../lib/github');
 
 describe('Integration with GitHub API', ( ) => {
