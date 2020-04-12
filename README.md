@@ -29,3 +29,16 @@ bash
 $ yarn test
 ```
 
+### Test for github.test.js
+You should generate your personal access token on github
+guide
+1. click your profile image (left-up side)
+2. you can see 'personal settings' page 
+3. click 'Developer settings' > 'Personal access tokens' 
+4. set your auth. 
+5. done! copy and use your token. 
+  
+```
+bash
+$ ACCESS_TOKEN=this_is_your_TOKEN yarn test
+```
